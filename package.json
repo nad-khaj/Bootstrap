@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass:build": "sass --no-source-map scss:css",
+    "sass:watch": "sass --no-source-map --watch scss:css"
+  },
+  "keywords": [],
+  "author": "Nadereh Khajehpour",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "font-awesome": "^4.7.0",
+    "fontawesome": "^5.6.3",
+    "sass": "^1.69.5"
+  },
+  "devDependencies": {},
+  "description": "web design",
+  "repository": {
+    "type": "git",
+    "url": "Bootstrap"
+  }
+}
